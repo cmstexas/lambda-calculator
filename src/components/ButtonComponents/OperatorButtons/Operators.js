@@ -2,8 +2,10 @@ import React, {useState} from "react";
 
 //import any components needed
 
+import OperatorButton from './OperatorButton';
+
 // import {} from '/GitWorkingFiles/lambda-calculator/src/data';
-import { operators } from '/../../../data';
+import { operators } from '../../../data';
 
 //Import your array data to from the provided data file
 

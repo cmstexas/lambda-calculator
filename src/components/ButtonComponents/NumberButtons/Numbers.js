@@ -4,7 +4,7 @@ import React, {useState} from "react";
 
 import NumberButton from './NumberButton';
 // import {numbers} from '/GitWorkingFiles/lambda-calculator/src/data';
-import { numbers } from '/../../../data';
+import { numbers } from '../../../data';
 
 //Import your array data to from the provided data file
 
