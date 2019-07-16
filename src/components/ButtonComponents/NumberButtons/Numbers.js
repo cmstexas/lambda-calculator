@@ -1,6 +1,9 @@
-import React from "react";
+import React, {useState} from "react";
 
 //import any components needed
+
+// import {numbers} from '/GitWorkingFiles/lambda-calculator/src/data';
+import {numbers} from '/../../../data';
 
 //Import your array data to from the provided data file
 
